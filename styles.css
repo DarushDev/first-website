@@ -45,11 +45,24 @@
 }
 
 .billboard {
-    background: #ccc;
+    background: #333;
+    color: #ffffff;
     text-align: center;
     padding: 40px;
 }
 
 .billboard h2 {
     margin-top: 0;
+}
+
+.main-col {
+    float: left;
+    width: 70%;
+}
+
+.sidebar-col {
+    background: #ccc;
+    float: right;
+    width: 25%;
+    padding: 20px 2.5%;
 }
