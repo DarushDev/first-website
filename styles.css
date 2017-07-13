@@ -1,7 +1,19 @@
-h1 {
-    color: #333333;
+.site-header {
+    background: #3f51b5;
+    color: #fff;
+    padding: 10px 5%;
+    box-shadow: #999 0 1px 3px;
+}
+
+.site-header h1 {
+    margin: 0;
+    font-size: 20px;
 }
 
 #main-text {
     color: blue;
+}
+
+.intro-text {
+    font-size: 18px;
 }
