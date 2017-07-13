@@ -43,3 +43,13 @@
 .intro-text {
     font-size: 18px;
 }
+
+.billboard {
+    background: #ccc;
+    text-align: center;
+    padding: 40px;
+}
+
+.billboard h2 {
+    margin-top: 0;
+}
